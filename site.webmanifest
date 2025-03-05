@@ -1,9 +1,9 @@
 {
-    "name": "Math Byte",
-    "short_name": "Math Byte",
-    "start_url": "https://mathbyte.github.io/",
+    "name": "Notes from a Boltzmann brain",
+    "short_name": "Notes from a Boltzmann brain",
+    "start_url": "http://mathbyte.xyz/",
     "theme_color": "#434648",
-    "background_color": "#ffffff",
+    "background_color": "#131418",
     "display": "standalone",
     "icons": [
         {
