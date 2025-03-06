@@ -6,15 +6,17 @@
     <description>Recent content in Posts on Math Byte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Mar 2025 15:37:54 -0300</lastBuildDate><atom:link href="http://mathbyte.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Mar 2025 17:50:17 -0300</lastBuildDate><atom:link href="http://mathbyte.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>http://mathbyte.xyz/posts/firstpost/</link>
-      <pubDate>Wed, 05 Mar 2025 15:37:54 -0300</pubDate>
+      <title>About</title>
+      <link>http://mathbyte.xyz/posts/about/</link>
+      <pubDate>Thu, 06 Mar 2025 17:41:06 -0300</pubDate>
       
-      <guid>http://mathbyte.xyz/posts/firstpost/</guid>
+      <guid>http://mathbyte.xyz/posts/about/</guid>
       
-      <description>&lt;h1 id=&#34;this-is-my-first-post-and-im-just-testing&#34;&gt;This is my first post and I&amp;rsquo;m just testing.&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;That blog is just a bunch of write-ups from an anonymous person who don&amp;rsquo;t really want to be find.
+I&amp;rsquo;m looking to make it as some sort of inspiration to my writes and studies, maybe the better way is expressing it in a blog.&lt;/p&gt;
 </description>
       
     </item>
